@@ -1,3 +1,4 @@
 *.pyc
-*.h
+*.h5
 *.pdf
+*DS_Store
